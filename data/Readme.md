@@ -1,6 +1,6 @@
 # TensorFlow
 
-### Face Recognition Classifier
+## Face Recognition Classifier
 
 In this Folder all the training and Validation data is stored. There are 6 folders in each sub folder. The heirarchy is as follows
 
