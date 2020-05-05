@@ -6,17 +6,17 @@ In this Folder all the training and Validation data is stored. There are 6 folde
 
 Data
 |-------Train
-|            |-------------Aditya Solanki
-|            |-------------Ben Afflek
-|            |-------------Elton John
-|            |-------------Jerry Seinfeld
-|            |-------------Madonna
-|            |-------------Mindy Kaling
+|         |-------------Aditya Solanki
+|         |-------------Ben Afflek
+|         |-------------Elton John
+|         |-------------Jerry Seinfeld
+|         |-------------Madonna
+|         |-------------Mindy Kaling
 |            
 |-------Validation
-|            |-------------Aditya Solanki
-|            |-------------Ben Afflek
-|            |-------------Elton John
-|            |-------------Jerry Seinfeld
-|            |-------------Madonna
-|            |-------------Mindy Kaling
+|         |-------------Aditya Solanki
+|         |-------------Ben Afflek
+|         |-------------Elton John
+|         |-------------Jerry Seinfeld
+|         |-------------Madonna
+|         |-------------Mindy Kaling
