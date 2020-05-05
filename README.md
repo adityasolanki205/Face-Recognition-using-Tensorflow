@@ -8,8 +8,8 @@ In this Repository we will try to create a Face Recognition classifier for the a
 
     - Face Detection
     
-    - Face Recognition
+    - Training Data Creation
 
     - Sample data
     
-    - [Facenet Model by Hiroki Taniai](https://github.com/nyoki-mtl/keras-facenet)
+    - (Facenet Model by Hiroki Taniai)[https://github.com/nyoki-mtl/keras-facenet]
