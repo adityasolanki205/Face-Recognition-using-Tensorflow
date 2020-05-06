@@ -9,7 +9,7 @@ The heirarchy is as follows
 #### Data
 
  Train
- - Aditya Solanki
+ - Aditya Solanki (Only Public photos provided here. Real dataset has 26 photos)
  - Ben Afflek
  - Elton John
  - Jerry Seinfeld
@@ -17,7 +17,7 @@ The heirarchy is as follows
  - Mindy Kaling
  
 Validation
- - Aditya Solanki
+ - Aditya Solanki (Only Public photos provided here. Real dataset has 5 photos)
  - Ben Afflek
  - Elton John
  - Jerry Seinfeld
