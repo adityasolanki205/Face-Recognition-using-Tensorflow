@@ -12,4 +12,4 @@ In this Repository we will try to create a Face Recognition classifier for the a
 
     - Data
     
-    - (Facenet Model by Hiroki Taniai)[https://github.com/nyoki-mtl/keras-facenet]
+    - [Facenet Model by Hiroki Taniai](https://github.com/nyoki-mtl/keras-facenet)
