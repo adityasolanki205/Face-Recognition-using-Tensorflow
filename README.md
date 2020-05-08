@@ -9,6 +9,12 @@ In this Repository we will try to create a Face Recognition classifier for the a
     - Face Detection
     
     - Training Data Creation
+    
+    - Face Embedding using FaceNet
+    
+    - Face Recognition
+    
+    - Predict Face
 
     - Data
     
