@@ -9,3 +9,5 @@ In this Folder we will try to create a Create Face recognition SVM model.
     - Face recognition.ipynb
     
     - SVM_model.pkl
+    
+    - label.pkl
