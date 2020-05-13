@@ -8,6 +8,10 @@ In this Folder we will try to transfer learning using Inception_resnet_v2 pretra
     
     - Inception_resnet_v2.ipynb
     
+    - Inception_resnet_v2_colab.ipynb
+    
     - foo.png
+    
+    - foo-colab.png
     
 
