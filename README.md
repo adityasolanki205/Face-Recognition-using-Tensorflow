@@ -9,3 +9,7 @@ In this Repository we will try to create a Face Recognition classifier for the a
     - Training Data Creation
 
     - Data
+    
+    - Transfer Learning from Inception Resnet V2
+    
+    - Predict a Face
